@@ -1,4 +1,4 @@
-# https://projecteuler.net/problem=1
+# https://projecteuler.net/problem=3
 
 # Upper bounding the problem statement = The smallest prime factor of a composite number N is less than or equal to
 # square root of N. So the easiest way to solve this would be get get the square root of N.
