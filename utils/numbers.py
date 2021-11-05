@@ -1,3 +1,6 @@
+import math
+
+
 def get_factors(num):
     """
     Get factors for num > 2
@@ -11,3 +14,7 @@ def get_factors(num):
                 factors.append(factor)
                 num = num/factor
     return factors
+
+
+def is_perfect_square(i: int) -> bool:
+    return i == math.isqrt(i) ** 2

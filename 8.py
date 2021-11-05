@@ -42,5 +42,6 @@ def sol():
             max_slice = current_slice_str
     print(max_product, max_slice)
 
+
 if __name__ == '__main__':
     sol()
